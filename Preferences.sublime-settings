@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/Color Scheme - User/Flatland Monokai Custom.tmTheme",
+	"flatland_square_tabs": true,
+	"font_face": "Meslo LG S for Powerline",
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"margin": 2,
+	"reveal-on-activate": true,
+	"tab_size": 4,
+	"theme": "Flatland Dark.sublime-theme"
+}
