@@ -1,0 +1,41 @@
+config defaultToCurrentScreen true
+wconfig nudgePercentOf screenSize
+config resizePercentOf screenSize
+alias hyper ctrl;shift;alt;cmd
+
+# Application Switcher
+# bind tab:cmd switch
+# bind tab:alt switch
+# bind tab:${hyper} switch
+bind tab:${hyper} hint QWERTYUIOPASDFGHJKLZXCVBNM
+
+# Grid
+# bind esc:cmd grid
+
+# Save Snapshots
+bind f1:alt snapshot snapshot1 save-to-disk
+bind f2:alt snapshot snapshot2 save-to-disk
+bind f3:alt snapshot snapshot3 save-to-disk
+bind f4:alt snapshot snapshot4 save-to-disk
+bind f5:alt snapshot snapshot5 save-to-disk
+bind f6:alt snapshot snapshot6 save-to-disk
+bind f7:alt snapshot snapshot7 save-to-disk
+bind f8:alt snapshot snapshot8 save-to-disk
+bind f9:alt snapshot snapshot9 save-to-disk
+bind f10:alt snapshot snapshot10 save-to-disk
+bind f11:alt snapshot snapshot11 save-to-disk
+bind f12:alt snapshot snapshot12 save-to-disk
+
+# Load Snapshots
+bind f1:${hyper} activate-snapshot snapshot1
+bind f2:${hyper} activate-snapshot snapshot2
+bind f3:${hyper} activate-snapshot snapshot3
+bind f4:${hyper} activate-snapshot snapshot4
+bind f5:${hyper} activate-snapshot snapshot5
+bind f6:${hyper} activate-snapshot snapshot6
+bind f7:${hyper} activate-snapshot snapshot7
+bind f8:${hyper} activate-snapshot snapshot8
+bind f9:${hyper} activate-snapshot snapshot9
+bind f10:${hyper} activate-snapshot snapshot10
+bind f11:${hyper} activate-snapshot snapshot11
+bind f12:${hyper} activate-snapshot snapshot12
