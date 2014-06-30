@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<root>
+	<item>
+		<name>Remap F19 to Ctrl-Shift-Option-Command</name>
+		<appendix></appendix>
+		<identifier>olegbl.hyperkey</identifier>
+		<autogen>
+			--KeyToKey--
+			KeyCode::F19,
+			KeyCode::COMMAND_L,
+			ModifierFlag::OPTION_L | ModifierFlag::SHIFT_L | ModifierFlag::CONTROL_L
+		</autogen>
+	</item>
+	<item>
+		<name>Remap Home to Cmd-Left</name>
+		<appendix></appendix>
+		<identifier>olegbl.hometocmdleft</identifier>
+		<autogen>
+			--KeyToKey--
+			KeyCode::HOME,
+			KeyCode::CURSOR_LEFT,
+			ModifierFlag::COMMAND_L
+		</autogen>
+	</item>
+	<item>
+		<name>Remap End to Cmd-Right</name>
+		<appendix></appendix>
+		<identifier>olegbl.endtocmdright</identifier>
+		<autogen>
+			--KeyToKey--
+			KeyCode::END,
+			KeyCode::CURSOR_RIGHT,
+			ModifierFlag::COMMAND_L
+		</autogen>
+	</item>
+</root>
