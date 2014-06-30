@@ -1,0 +1,15 @@
+{
+	"folders":
+	[
+		{
+			"name": "Files",
+			"path": "/my-project-files/",
+			"folder_exclude_patterns": [ "node_modules" ],
+			"follow_symlinks": true
+		}
+	],
+	"settings":
+	{
+	  "tab_size": 4
+	}
+}
