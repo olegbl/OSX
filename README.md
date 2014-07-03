@@ -28,3 +28,6 @@ My setup/configuration for OSX.
   * [Configuration](https://github.com/olegbl/OSX/blob/master/Preferences.sublime-settings)
 * [NDENV](https://github.com/riywo/ndenv)
   * [NodeJS](http://nodejs.org)
+
+## TODO
+* [Hydra](https://github.com/sdegutis/hydra)
