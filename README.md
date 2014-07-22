@@ -7,8 +7,9 @@ My setup/configuration for OSX.
 * [Scroll Reverser](http://pilotmoon.com/scrollreverser)
 * [Seil / PCKeyboardHack](https://pqrs.org/macosx/keyremap4macbook/seil.html)
   * Configuration: Change Caps Lock to Keycode 80 (F19)
-* [KeyRemap4MacBook](https://pqrs.org/macosx/keyremap4macbook)
+* [Karabiner / KeyRemap4MacBook](https://pqrs.org/macosx/keyremap4macbook)
   * [Configuration](https://github.com/olegbl/OSX/blob/master/private.xml)
+* [Disable Caps Lock in OSX](http://www.drbunsen.org/remapping-caps-lock/)
 * [Slate](https://github.com/jigish/slate)
   * [Base Configuration](https://github.com/olegbl/OSX/blob/master/.slate) in ~
   * [JS Configuration](https://github.com/olegbl/OSX/blob/master/.slate.js) in ~
