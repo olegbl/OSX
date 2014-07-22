@@ -1,7 +1,7 @@
 #! /bin/bash
 
 # OSX
-defaults write com.apple.Finder AppleShowAllFiles YES # Show all files in Finder
+defaults write com.apple.finder AppleShowAllFiles TRUE # Show all files in Finder
 export PATH=
 
 # MacPorts Paths
