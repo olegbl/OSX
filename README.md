@@ -18,7 +18,7 @@ My setup/configuration for OSX.
 * [iTerm 2](http://www.iterm2.com)
 * [Fish Shell](http://fishshell.com)
   * [Configuration](https://github.com/olegbl/OSX/blob/master/config.fish) in ~/.config/fish
-  * [Oh My Fish](https://github.com/bpinto/oh-my-fish)
+  * [Oh My Fish](https://github.com/oh-my-fish)
   * [Fonts](https://github.com/Lokaltog/powerline-fonts) (Use "Meslo LG S Regular for Powerline")
 * [Github Client](https://mac.github.com)
 * [Gitbox](http://gitboxapp.com)
